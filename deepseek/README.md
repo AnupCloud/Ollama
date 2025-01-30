@@ -1,4 +1,4 @@
-# Ollama DeepSeek Chatbot
+# Ollama DeepSeek-R1
 
 This project provides **synchronous and asynchronous** implementations of a chatbot using **Ollama** and the **DeepSeek LLM (`deepseek-r1:1.5b`)**.  
 It streams responses in real-time for an interactive AI assistant experience.
