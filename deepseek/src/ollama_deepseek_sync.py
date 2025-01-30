@@ -1,4 +1,4 @@
-# Normal function
+# sync function
 import asyncio
 import ollama
 
